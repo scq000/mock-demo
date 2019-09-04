@@ -1,0 +1,23 @@
+{
+    'taxonomy/v2/sf-region': {
+        examples: [
+            {
+                parameter: {
+                    tags: 'Germany,France'
+                },
+                response: {
+                    "SF_Region": ["Germany", "France"]
+                }
+            },
+            {
+                response: {
+                     "SF_Region": ["Germany", "France", "Netherlands"]
+                },
+            },
+            {
+		            method: 'POST', // match different HTTP methods
+                response: {status: 200}
+            }
+        ]
+    }
+}
