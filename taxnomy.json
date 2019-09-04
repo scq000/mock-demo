@@ -15,7 +15,7 @@
                 },
             },
             {
-		            method: 'POST', // match different HTTP methods
+		method: 'POST',
                 response: {status: 200}
             }
         ]
