@@ -6,7 +6,7 @@
                     "tags": "Germany,France"
                 },
                 "response": {
-                    "SF_Region": ["Germany1", "France"]
+                    "SF_Region": ["Germany", "France1"]
                 }
             },
             {
