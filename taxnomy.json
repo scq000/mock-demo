@@ -13,10 +13,6 @@
                 "response": {
                      "SF_Region": ["Germany", "France", "Netherlands"]
                 }
-            },
-            {
-		"method": "POST",
-                "response": {"status": 200}
             }
         ]
     }
