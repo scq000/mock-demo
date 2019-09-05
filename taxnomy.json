@@ -3,7 +3,7 @@
         "examples" : [
             {
                 "parameter": {
-                    "tags": "Germany,France"
+                    "tags": "Germany8777,France"
                 },
                 "response": {
                     "SF_Region": ["Germany", "France1"]
