@@ -3,7 +3,7 @@
     "examples": [
       {
         "parameter": {
-          "page": 2
+          "page": "2"
         },
         "response": {
           "from_mock": "page_2"
