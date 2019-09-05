@@ -1,0 +1,19 @@
+{
+  "/rating/organizations/600000069/sales": {
+    "examples": [
+      {
+        "parameter": {
+          "page": 2
+        },
+        "response": {
+          "from_mock": "page_2"
+        }
+      },
+      {
+        "response": {
+          "from_mock": "no_page"
+        }
+      }
+    ]
+  }
+}
